@@ -6,5 +6,5 @@
 Here are some ideas to get you started: -->
 I am a Telecommunications Engineer and a Software Engineer, managing and building web and mbile apps .
 
-- 🌱 I’m currently learning DevOps managing and building distributed systems and also building tools to ease manage them.
--  I write Python and some javascript (NodeJS).
+- 🌱 I’m a top-tier cloud-agnostic Data and DevOps Engineer  with a proven track record in architecting and provisioning maintainable and scalable  "full-stack" data infrastructure used in batch (ELT & ETL) and real-time data processing pipelines. 
+-  I am well-versed in tackling the most challenging data and cloud environments and am well-informed about the recent developments in data and cloud engineering.
